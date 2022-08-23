@@ -1,0 +1,14 @@
+# cancro-user 6.0.1 MMB29M V10.1.1.0.MXDCNFI release-keys
+- manufacturer: xiaomi
+- platform: msm8974
+- codename: cancro
+- flavor: cancro-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: V10.1.1.0.MXDCNFI
+- tags: release-keys
+- fingerprint: Xiaomi/cancro/cancro:6.0.1/MMB29M/V10.1.1.0.MXDCNFI:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: cancro-user-6.0.1-MMB29M-V10.1.1.0.MXDCNFI-release-keys
+- repo: xiaomi_cancro_dump
