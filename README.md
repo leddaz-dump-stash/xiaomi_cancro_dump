@@ -1,0 +1,14 @@
+# cancro-user 6.0.1 MMB29M 8.9.13 release-keys
+- manufacturer: xiaomi
+- platform: msm8974
+- codename: cancro
+- flavor: cancro-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: 8.9.13
+- tags: release-keys
+- fingerprint: Xiaomi/cancro/cancro:6.0.1/MMB29M/8.9.13:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: cancro-user-6.0.1-MMB29M-8.9.13-release-keys
+- repo: xiaomi_cancro_dump
